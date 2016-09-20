@@ -5,5 +5,6 @@ public class test {
 		System.out.println("peng's first git project!");
 		System.out.print("second");
 		System.out.print("third");
+		System.out.println("fourth");
 	}
 }
